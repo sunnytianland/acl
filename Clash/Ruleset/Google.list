@@ -22,5 +22,8 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,api-ipv4.ip.sb
+DOMAIN-SUFFIX,sentry.io
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
